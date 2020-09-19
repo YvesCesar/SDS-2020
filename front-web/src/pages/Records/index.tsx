@@ -6,7 +6,7 @@ import { formatDate } from './helpers';
 import Pagination from './Pagination';
 import Filters from '../../components/Filters/';
 
-const BASE_URL = 'http://localhost:8080';
+const BASE_URL = 'https://sds1-2020-yves.herokuapp.com';
 
 //https://stackoverflow.com/questions/48859169/js-types-can-only-be-used-in-a-ts-file-visual-studio-code-using-ts-check
 
